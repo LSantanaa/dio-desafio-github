@@ -1,6 +1,7 @@
 # Desafio de Projeto sobre Git/Github da DIO
 
 *Repositório do Projeto realizado durante o bootcamp _Linux Experience_, no módulo inicial do curso*
+*Aqui também será encontrado os desafios de infraestrutura como código no Linux Ubuntu, também realizados durante o bootcamp*
 
 ## links úteis
 
